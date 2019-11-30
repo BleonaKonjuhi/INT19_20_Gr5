@@ -1,0 +1,88 @@
+nav
+{
+    
+    font-size: 1.1em;
+    padding-left: 58%;
+}
+section{
+	background: rgba(2, 2,2,0.2) ;
+	color: white;
+    padding-bottom: 1em;
+
+}
+
+nav ul li
+{
+    list-style: none;
+    display: inline;
+}
+#Search{
+    padding-top:1em;
+    padding-left:87%;
+     }
+#Search input{
+    background-color: #1F242A;
+    border-radius: 15px;
+    border-color: #1F242A;
+}
+a:hover
+{
+    
+    color:black;
+}
+nav a
+{color: white;
+    text-decoration: none;
+    padding: 0.25em;
+      
+}
+
+header
+{  
+ width: 100% !important;
+	height: 500px;
+    background-image: url(foto.png);
+    font-size: 100%;
+}
+header h2
+{
+    font-size: 180%;
+}	
+
+#desc 
+{
+
+    background-color: #E7E7E7;
+   width: 99%;
+   padding:0 0.5% 2% 0.5%;
+   border-bottom: #DADADA solid 5px;
+   color: black;
+   display: inline-flex;
+   padding-top: 2%;
+}
+#buton 
+{
+ background-color: black;
+ color: white;
+ border-radius: 5px;
+border:0;
+ -webkit-appearance:none;
+ margin-right: % !important;
+ width: 120%;
+ padding: 7% 0 7% 0;
+ margin-top: 12%;
+ font-size: 120%;
+
+}
+#desc p
+{
+    width: 70%;
+    margin: 0;
+    font-size: 160%;
+}
+button#search
+{
+   width:16%;
+   
+
+}
