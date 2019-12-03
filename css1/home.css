@@ -24,6 +24,7 @@ nav ul li
     background-color: #1F242A;
     border-radius: 15px;
     border-color: #1F242A;
+    color: white;
 }
 a:hover
 {
@@ -74,15 +75,70 @@ border:0;
  font-size: 120%;
 
 }
-#desc p
+#desc h3
 {
     width: 70%;
-    margin: 0;
-    font-size: 160%;
+    margin-right: 2.5%;
+    font-size: 170%;
 }
 button#search
 {
-   width:16%;
+   width:13%;
+   
+}
+.img
+{
+margin: 5%;
+width: 30%
+}
+.icons
+{
+    background-color: white;
+}
+.img1
+{
+    margin: 5%;
+    width: 80%;
+    margin-bottom: 0%;
+    
+}
+.table1{
+    background-color: white;
+    width: 100%;
+
+}
+#center
+{
+    text-align: center;
+    background-color: white;
+    color: black;
+}
+ 
+.wrap
+{
+    width: 80px;
+    margin-top: 30px;
+    margin: 0%;
+
    
 
+}
+.card
+{
+
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.6);
+
+    
+    width: 470px;
+    background-color: white;
+    text-align: center;
+    font-size: 16px;
+    font-family: sans-serif;
+    margin: 10px;
+    float: left;
+  color: black;
+}
+.container
+{
+    padding: 2px 16px;
 }
